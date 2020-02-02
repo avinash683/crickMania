@@ -1,0 +1,19 @@
+{
+  "name": "crickmania",
+  "version": "1.0.0",
+  "description": "lets you predict match status ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avinash683/crickMania.git"
+  },
+  "author": "avinashBagde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avinash683/crickMania/issues"
+  },
+  "homepage": "https://github.com/avinash683/crickMania#readme"
+}
